@@ -5,9 +5,9 @@
 <test name="checklist" preserve-order="true"> 
 <classes>
  <class name="com.test.AppTest" />
-<!--  <class name="demoQA.test.AppTest" />
+ <class name="demoQA.test.AppTest" />
  <class name="com.test.mavenTest" />
- <class name="com.test.class2" /> -->
+ <class name="com.test.class2" />
   
   </classes>
   </test> 
