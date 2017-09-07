@@ -51,7 +51,7 @@
 				<suiteXmlFiles>
 				<!-- TestNG suite XML files -->
 					<suiteXmlFile>test-NG.xml</suiteXmlFile>
-					
+					<suiteXmlFile>test-NG2.xml</suiteXmlFile>
 				</suiteXmlFiles>
 			</configuration>
 	</plugin>
